@@ -1,0 +1,10 @@
+3 Intel NUC's
+Each with 64 Gigs of Corsair Memory
+Small NVME SSD for logs, etc
+Extra USB NIC
+
+Synology 1518 NAS serving iSCSI to NUC's
+Connected to network with 4 x 1 gig Ethernet connections
+
+Ubuquity EdgeSwitch PoE
+ Has L3 functionality
